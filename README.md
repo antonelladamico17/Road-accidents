@@ -19,16 +19,24 @@ devtools::install_github('unimi-dse/10e974e5')
 require(roadaccidents)
 ``` 
 
+<p> Please, first install <b> magrittr </b> package before using the package roadaccidents.
+
 <h2> Dataset </h2>
+<p> To import the dataset use the function </p>
+
+```r
+# load the dataframe
+getData()
+```
 <p> The project uses dataset imported from OpenData of Comune di Milano (https://dati.lombardia.it/resource/kfsx-gizw.json) as a JSON file. </p>
 
-<p> Dataset contains these fields: </p>
+<h2> Shiny App </h2>
+<p> To run the Shiny App us the function </p>
 
-- Year accidents
-- Number of total accidents
-- Total dead people
-- Total injured people
-- District
+```r
+# Run Shiny App
+roadaccidents()
+```
 
 <h3> Functions </h3>
 <li><code> year_dead</code></li>
