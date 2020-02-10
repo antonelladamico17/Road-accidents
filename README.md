@@ -25,8 +25,8 @@ require(roadaccidents)
 <p> To import the dataset use the function </p>
 
 ```r
-# load the dataframe
-getData()
+# load the dataframe with this function
+data <- getData()
 ```
 <p> The project uses dataset imported from OpenData of Comune di Milano (https://dati.lombardia.it/resource/kfsx-gizw.json) as a JSON file. </p>
 
