@@ -21,12 +21,7 @@ require(roadaccidents)
 
 
 <h2> Dataset </h2>
-<p> To import the dataset use the function </p>
 
-```r
-# load the dataframe 
-getData()
-```
 <p> The project uses dataset imported from OpenData of Comune di Milano (https://dati.lombardia.it/resource/kfsx-gizw.json) as a JSON file. </p>
 
 <h2> Shiny App </h2>
@@ -37,13 +32,15 @@ getData()
 roadaccidents()
 ```
 
-<h3> Functions </h3>
-<li><code> year_dead</code></li>
-<p> This function return the mean of dead people divided by district in a specific year</p>
-<li><code> year_injured</code></li>
-<p> This function return the mean of injured people divided by district in a specific year</p>
-<li><code> district_dead</code></li>
-<p> This function return the mean of dead people divided by year in a specific district</p>
-<li><code> district_injured</code></li>
-<p> This function return the mean of injured people divided by year in a specific district</p>
+<h2> Documentation </h2>
+<p> It is possible to see the documentation of the developed functions using </p>
+<li><code> ?getData</code></li>
+<li><code> ?year_dead</code></li>
+<li><code> ?year_injured</code></li>
+<li><code> ?district_dead</code></li>
+<li><code> ?district_injured</code></li>
+<li><code> ?roadaccidents</code></li>
 
+
+<h3> Author </h3>
+<i> Antonella D'Amico </i>
