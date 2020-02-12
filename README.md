@@ -19,7 +19,6 @@ devtools::install_github('unimi-dse/10e974e5')
 require(roadaccidents)
 ``` 
 
-<p> First install the R package <b> "magrittr" </b>  to ensure proper functioning of the roadaccidents package. 
 
 <h2> Dataset </h2>
 <p> To import the dataset use the function </p>
