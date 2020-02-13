@@ -34,7 +34,7 @@ roadaccidents()
 
 <h2> Documentation </h2>
 <p> It is possible to see the documentation of the developed functions using </p>
-<li><code> ?getData</code></li>
+<li><code> ?getDataset</code></li>
 <li><code> ?year_dead</code></li>
 <li><code> ?year_injured</code></li>
 <li><code> ?district_dead</code></li>
