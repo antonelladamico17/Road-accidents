@@ -1,7 +1,7 @@
 <i> ID: 10e974e5 </i>
 
 <h1 align="center">Road Accidents Analysis</h1>
-<p> This application makes an analysis of the road accidents in the Lombardy region from 2010 to 2016 </p>
+<p> This application makes an analysis of the road accidents in the Lombardy region from 2010 to 2016. It is possible to calculate the mean for injured and dead people in a specific district or in a specific year. </p>
 <br>
 
 <h2> Installation</h2>
