@@ -22,10 +22,10 @@ require(roadaccidents)
 
 <h2> Dataset </h2>
 
-<p> The project uses dataset imported from OpenData of Comune di Milano (https://dati.lombardia.it/resource/kfsx-gizw.json) as a JSON file. </p>
+<p> The project uses dataset imported from OpenData of Comune di Milano (https://dati.lombardia.it/resource/kfsx-gizw.json).</p>
 
 <h2> Shiny App </h2>
-<p> To run the Shiny App us the function </p>
+<p> To run the Shiny App us the function: </p>
 
 ```r
 # Run Shiny App
