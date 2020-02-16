@@ -36,22 +36,22 @@ The dataset is compsed by 490 observations and 8 variables:
 ## Documentation
 It is possible to see the documentation of the developed functions using: 
 ```R 
-?getDataset
+?getDataset()
 ```
 ```R 
-?year_dead
+?year_dead()
 ```
 ```R
-?year_injured
+?year_injured()
 ```
 ```R 
-?district_dead
+?district_dead()
 ```
 ```R 
-?district_injured
+?district_injured()
 ```
 ```R 
-?roadaccidents
+?roadaccidents()
 ```
 
 ## Shiny App
