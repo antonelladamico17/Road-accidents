@@ -5,21 +5,21 @@ This package allows users to make an analysis of the _road accidents in the Lomb
 It is possible to calculate the mean for injured and dead people in a specific district or in a specific year.
 
 
-### Installation
+## Installation
 
 ```R
 # first install the R package "devtools" if not installed
 devtools::install_github('unimi-dse/10e974e5')
 ```
 
-### Usage
+## Usage
 
 ```R
 # load the package
 require(roadaccidents)
 ``` 
 
-### Dataset
+## Dataset
 
 The project provides a dataset which is imported from the Regione Lombardia website (https://dati.lombardia.it/resource/kfsx-gizw.json).
 The dataset is compsed by 490 observations and 8 variables:
@@ -33,7 +33,7 @@ The dataset is compsed by 490 observations and 8 variables:
 - _totale feriti_: total number of injured people
 
 
-### Documentation
+## Documentation
 It is possible to see the documentation of the developed functions using: 
 ```R 
 ?getDataset
@@ -54,7 +54,7 @@ It is possible to see the documentation of the developed functions using:
 ?roadaccidents
 ```
 
-### Shiny App
+## Shiny App
 To run the Shiny App use the function:
 
 ```r
@@ -62,7 +62,7 @@ To run the Shiny App use the function:
 roadaccidents()
 ```
 
-### Technologies:
+## Technologies:
 - R language
 - Shiny App
 
