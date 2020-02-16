@@ -21,11 +21,11 @@ require(roadaccidents)
 
 ## Dataset
 
-The project provides a dataset which is imported from the Regione Lombardia website (https://dati.lombardia.it/resource/kfsx-gizw.json).
+The project provides a dataset which is imported from the Regione Lombardia website (https://dati.lombardia.it/resource/kfsx-gizw.json). \
 The dataset is compsed by 490 observations and 8 variables:
 - _anno incidente_: year of the accidents
 - _codice istat provincia_: identification code for the district
-- _provincia_ district
+- _provincia_: district
 - _codice istat comune_: identification code for the city
 - _comune_: city
 - _numero incidenti_: number of accidents
