@@ -22,6 +22,8 @@ require(roadaccidents)
 ## Dataset
 
 The project provides a dataset which is imported from the Regione Lombardia website (Open Data), <https://dati.lombardia.it>.
+\
+\
 The dataset is compsed by 490 observations and 8 variables:
 - _anno incidente_: year of the accidents
 - _codice istat provincia_: identification code for the district
