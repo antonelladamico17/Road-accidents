@@ -1,4 +1,3 @@
-_ID: 10e974e5_
 
 # Road Accidents Analysis
 This package allows users to make an analysis of the _road accidents in the Lombardy region from 2010 to 2016._ 
